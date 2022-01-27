@@ -1,0 +1,16 @@
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\bin\Debug\net5.0\WalshTransform.exe
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\bin\Debug\net5.0\WalshTransform.deps.json
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\bin\Debug\net5.0\WalshTransform.runtimeconfig.json
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\bin\Debug\net5.0\WalshTransform.runtimeconfig.dev.json
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\bin\Debug\net5.0\WalshTransform.dll
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\bin\Debug\net5.0\ref\WalshTransform.dll
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\bin\Debug\net5.0\WalshTransform.pdb
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\WalshTransform.csproj.AssemblyReference.cache
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\WalshTransform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\WalshTransform.AssemblyInfoInputs.cache
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\WalshTransform.AssemblyInfo.cs
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\WalshTransform.csproj.CoreCompileInputs.cache
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\WalshTransform.dll
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\ref\WalshTransform.dll
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\WalshTransform.pdb
+C:\Users\bochk\source\repos\WalshTransform\WalshTransform\obj\Debug\net5.0\WalshTransform.genruntimeconfig.cache
